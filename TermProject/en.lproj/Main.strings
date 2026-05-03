@@ -1,0 +1,171 @@
+
+/* Class = "UILabel"; text = "End"; ObjectID = "1BV-h9-uUO"; */
+"1BV-h9-uUO.text" = "End";
+
+/* Class = "UISegmentedControl"; 1iz-j0-Ekm.segmentTitles[0] = "Folders"; ObjectID = "1iz-j0-Ekm"; */
+"1iz-j0-Ekm.segmentTitles[0]" = "Folders";
+
+/* Class = "UISegmentedControl"; 1iz-j0-Ekm.segmentTitles[1] = "All Items"; ObjectID = "1iz-j0-Ekm"; */
+"1iz-j0-Ekm.segmentTitles[1]" = "All Items";
+
+/* Class = "UIButton"; configuration.title = "Play"; ObjectID = "6fM-ue-p39"; */
+"6fM-ue-p39.configuration.title" = "Play";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "6fM-ue-p39"; */
+"6fM-ue-p39.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Play"; ObjectID = "7D3-bo-cFj"; */
+"7D3-bo-cFj.configuration.title" = "Play";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "7D3-bo-cFj"; */
+"7D3-bo-cFj.normalTitle" = "Button";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "Czj-wf-rhG"; */
+"Czj-wf-rhG.title" = "Item";
+
+/* Class = "UINavigationItem"; title = "Color Palette Extractor"; ObjectID = "D0v-oy-BWv"; */
+"D0v-oy-BWv.title" = "Color Palette Extractor";
+
+/* Class = "UIButton"; configuration.title = "Button"; ObjectID = "DHQ-Xt-76S"; */
+"DHQ-Xt-76S.configuration.title" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "DHQ-Xt-76S"; */
+"DHQ-Xt-76S.normalTitle" = "Button";
+
+/* Class = "UITabBarItem"; title = "workshop"; ObjectID = "ECL-CY-nvR"; */
+"ECL-CY-nvR.title" = "workshop";
+
+/* Class = "UILabel"; text = "Selected:"; ObjectID = "GY1-nR-Xnn"; */
+"GY1-nR-Xnn.text" = "Selected:";
+
+/* Class = "UILabel"; text = "Info"; ObjectID = "Gzo-GY-LSZ"; */
+"Gzo-GY-LSZ.text" = "Info";
+
+/* Class = "UILabel"; text = "Detail"; ObjectID = "Me8-SV-h4Z"; */
+"Me8-SV-h4Z.text" = "Detail";
+
+/* Class = "UILabel"; text = "Extracted Colors"; ObjectID = "NKb-xv-dCN"; */
+"NKb-xv-dCN.text" = "Extracted Colors";
+
+/* Class = "UINavigationItem"; title = "VisualDive"; ObjectID = "QK7-Sl-hcq"; */
+"QK7-Sl-hcq.title" = "VisualDive";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "QNc-Dk-G2q"; */
+"QNc-Dk-G2q.text" = "Label";
+
+/* Class = "UIButton"; configuration.title = "Upload New Image"; ObjectID = "Qwk-vI-CdB"; */
+"Qwk-vI-CdB.configuration.title" = "Upload New Image";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Qwk-vI-CdB"; */
+"Qwk-vI-CdB.normalTitle" = "Button";
+
+/* Class = "UISegmentedControl"; RCw-7l-CQW.segmentTitles[0] = "Photo"; ObjectID = "RCw-7l-CQW"; */
+"RCw-7l-CQW.segmentTitles[0]" = "Photo";
+
+/* Class = "UISegmentedControl"; RCw-7l-CQW.segmentTitles[1] = "Video"; ObjectID = "RCw-7l-CQW"; */
+"RCw-7l-CQW.segmentTitles[1]" = "Video";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "RKd-lR-30G"; */
+"RKd-lR-30G.text" = "Label";
+
+/* Class = "UIButton"; configuration.title = "Button"; ObjectID = "Tg4-6L-UYL"; */
+"Tg4-6L-UYL.configuration.title" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Tg4-6L-UYL"; */
+"Tg4-6L-UYL.normalTitle" = "Button";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "Tgl-wz-qh0"; */
+"Tgl-wz-qh0.title" = "Item";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "WHN-96-zuB"; */
+"WHN-96-zuB.text" = "Label";
+
+/* Class = "UITabBarItem"; title = "search"; ObjectID = "WWf-YM-Rcz"; */
+"WWf-YM-Rcz.title" = "search";
+
+/* Class = "UIButton"; configuration.title = "Button"; ObjectID = "XKr-Vc-eqn"; */
+"XKr-Vc-eqn.configuration.title" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "XKr-Vc-eqn"; */
+"XKr-Vc-eqn.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Download"; ObjectID = "XPJ-8m-fcZ"; */
+"XPJ-8m-fcZ.configuration.title" = "Download";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "XPJ-8m-fcZ"; */
+"XPJ-8m-fcZ.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Z3B-Dq-igF"; */
+"Z3B-Dq-igF.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ZDl-GL-U2p"; */
+"ZDl-GL-U2p.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "Favorites"; ObjectID = "ZJ8-9V-MjW"; */
+"ZJ8-9V-MjW.title" = "Favorites";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ZlW-6A-qqM"; */
+"ZlW-6A-qqM.text" = "Label";
+
+/* Class = "UIButton"; configuration.title = "Play Both"; ObjectID = "Zrz-Fd-jd2"; */
+"Zrz-Fd-jd2.configuration.title" = "Play Both";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Zrz-Fd-jd2"; */
+"Zrz-Fd-jd2.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Selected:"; ObjectID = "a0t-c7-4p7"; */
+"a0t-c7-4p7.text" = "Selected:";
+
+/* Class = "UINavigationItem"; title = "Details"; ObjectID = "aj5-Rs-VbH"; */
+"aj5-Rs-VbH.title" = "Details";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "dHN-aW-nCn"; */
+"dHN-aW-nCn.title" = "Item";
+
+/* Class = "UIButton"; configuration.title = "Button"; ObjectID = "fvd-PU-xZ7"; */
+"fvd-PU-xZ7.configuration.title" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "fvd-PU-xZ7"; */
+"fvd-PU-xZ7.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Start"; ObjectID = "h2r-Mh-be1"; */
+"h2r-Mh-be1.text" = "Start";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "i5y-zZ-bwd"; */
+"i5y-zZ-bwd.text" = "Label";
+
+/* Class = "UIBarButtonItem"; title = "+"; ObjectID = "iD3-5E-Is6"; */
+"iD3-5E-Is6.title" = "+";
+
+/* Class = "UILabel"; text = "End"; ObjectID = "ofa-SP-jeM"; */
+"ofa-SP-jeM.text" = "End";
+
+/* Class = "UINavigationItem"; title = "Video Workshop"; ObjectID = "pGn-Rf-URZ"; */
+"pGn-Rf-URZ.title" = "Video Workshop";
+
+/* Class = "UITabBarItem"; title = "palette"; ObjectID = "rrq-X7-8B8"; */
+"rrq-X7-8B8.title" = "palette";
+
+/* Class = "UITabBarItem"; title = "Search"; ObjectID = "v0q-IJ-h6z"; */
+"v0q-IJ-h6z.title" = "Search";
+
+/* Class = "UILabel"; text = "Start"; ObjectID = "wVT-Jd-hTt"; */
+"wVT-Jd-hTt.text" = "Start";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "wwl-fj-eLQ"; */
+"wwl-fj-eLQ.text" = "Label";
+
+/* Class = "UIButton"; configuration.title = "Pause Both"; ObjectID = "x2C-WK-HGr"; */
+"x2C-WK-HGr.configuration.title" = "Pause Both";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "x2C-WK-HGr"; */
+"x2C-WK-HGr.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Color Code"; ObjectID = "xes-Qv-ttW"; */
+"xes-Qv-ttW.text" = "Color Code";
+
+/* Class = "UIButton"; configuration.title = "Workshop"; ObjectID = "zbT-Cu-7RD"; */
+"zbT-Cu-7RD.configuration.title" = "Workshop";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "zbT-Cu-7RD"; */
+"zbT-Cu-7RD.normalTitle" = "Button";
