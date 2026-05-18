@@ -2,7 +2,6 @@
 //  AppDelegate.swift
 //  TermProject
 //
-//  Created by Reina Chen on 5/3/26.
 //
 
 import UIKit
