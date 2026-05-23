@@ -20,9 +20,6 @@
 /* Class = "UIButton"; normalTitle = "Button"; ObjectID = "7D3-bo-cFj"; */
 "7D3-bo-cFj.normalTitle" = "Button";
 
-/* Class = "UITabBarItem"; title = "Item"; ObjectID = "Czj-wf-rhG"; */
-"Czj-wf-rhG.title" = "Item";
-
 /* Class = "UINavigationItem"; title = "Color Palette Extractor"; ObjectID = "D0v-oy-BWv"; */
 "D0v-oy-BWv.title" = "Color Palette Extractor";
 
@@ -74,9 +71,6 @@
 /* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Tg4-6L-UYL"; */
 "Tg4-6L-UYL.normalTitle" = "Button";
 
-/* Class = "UITabBarItem"; title = "Item"; ObjectID = "Tgl-wz-qh0"; */
-"Tgl-wz-qh0.title" = "Item";
-
 /* Class = "UILabel"; text = "Label"; ObjectID = "WHN-96-zuB"; */
 "WHN-96-zuB.text" = "Label";
 
@@ -118,9 +112,6 @@
 
 /* Class = "UINavigationItem"; title = "Details"; ObjectID = "aj5-Rs-VbH"; */
 "aj5-Rs-VbH.title" = "Details";
-
-/* Class = "UITabBarItem"; title = "Item"; ObjectID = "dHN-aW-nCn"; */
-"dHN-aW-nCn.title" = "Item";
 
 /* Class = "UIButton"; configuration.title = "Button"; ObjectID = "fvd-PU-xZ7"; */
 "fvd-PU-xZ7.configuration.title" = "Button";

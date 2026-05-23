@@ -30,20 +30,36 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		DF34DF162FA80B0100BF8474 /* Exceptions for "TermProject" folder in "TermProject" target */ = {
+		DF2AB2FA2FBCD3000029968C /* Exceptions for "TermProject" folder in "TermProject" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
-				Info.plist,
+				"/Localized: Main.storyboard",
+				API/PexelsAPIManager.swift,
+				AppDelegate.swift,
+				ColorPaletteViewController.swift,
+				Extensions/StringAndColor.swift,
+				Extensions/UIImageViewAndLoading.swift,
+				FavoritesViewController.swift,
+				ItemDetailViewController.swift,
+				Managers/FavoritesManager.swift,
+				Managers/WorkshopManager.swift,
+				Models/FavoriteFolder.swift,
+				Models/FavoriteItem.swift,
+				Models/Photo.swift,
+				Models/Video.swift,
+				SceneDelegate.swift,
+				SearchViewController.swift,
+				VideoWorkshopViewController.swift,
 			);
 			target = DF34DEED2FA80B0000BF8474 /* TermProject */;
 		};
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		DF34DEF02FA80B0000BF8474 /* TermProject */ = {
+		DF2AB2F82FBCD2F40029968C /* TermProject */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				DF34DF162FA80B0100BF8474 /* Exceptions for "TermProject" folder in "TermProject" target */,
+				DF2AB2FA2FBCD3000029968C /* Exceptions for "TermProject" folder in "TermProject" target */,
 			);
 			path = TermProject;
 			sourceTree = "<group>";
@@ -88,7 +104,7 @@
 		DF34DEE52FA80B0000BF8474 = {
 			isa = PBXGroup;
 			children = (
-				DF34DEF02FA80B0000BF8474 /* TermProject */,
+				DF2AB2F82FBCD2F40029968C /* TermProject */,
 				DF34DF072FA80B0100BF8474 /* TermProjectTests */,
 				DF34DF112FA80B0100BF8474 /* TermProjectUITests */,
 				DF34DEEF2FA80B0000BF8474 /* Products */,
@@ -119,9 +135,6 @@
 			buildRules = (
 			);
 			dependencies = (
-			);
-			fileSystemSynchronizedGroups = (
-				DF34DEF02FA80B0000BF8474 /* TermProject */,
 			);
 			name = TermProject;
 			packageProductDependencies = (
@@ -199,7 +212,7 @@
 					};
 				};
 			};
-			buildConfigurationList = DF34DEE92FA80B0000BF8474 /* Build configuration list for PBXProject "TermProject" */;
+			buildConfigurationList = DF34DEE92FA80B0000BF8474 /* Build configuration list for PBXProject "TermProject.SceneDelegate" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -287,22 +300,29 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = VHQCZA3697;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = TermProject/Info.plist;
+				INFOPLIST_KEY_NSPhotoLibraryAddUsageDescription = "This app saves photos and videos to your library.";
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "This app needs access to save downloaded media.";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UIStatusBarStyle = "";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 26.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.Reina.TermProject;
+				PRODUCT_BUNDLE_IDENTIFIER = com.reina.termproject;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
 				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
@@ -318,22 +338,29 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = VHQCZA3697;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = TermProject/Info.plist;
+				INFOPLIST_KEY_NSPhotoLibraryAddUsageDescription = "This app saves photos and videos to your library.";
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "This app needs access to save downloaded media.";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UIStatusBarStyle = "";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 26.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.Reina.TermProject;
+				PRODUCT_BUNDLE_IDENTIFIER = com.reina.termproject;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
 				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
@@ -546,7 +573,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		DF34DEE92FA80B0000BF8474 /* Build configuration list for PBXProject "TermProject" */ = {
+		DF34DEE92FA80B0000BF8474 /* Build configuration list for PBXProject "TermProject.SceneDelegate" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				DF34DF1A2FA80B0100BF8474 /* Debug */,
