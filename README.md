@@ -1,3 +1,6 @@
+## Overview:
+VisualDive is an iOS app designed for those who need to quickly discover, organize, and compare inspirational visual content for their social media posts, presentations, and creative personal projects.
+
 ## Features:
 - Users can search photos or videos based on keywords, color, name of photographers/creators of videos, width, height, etc. 
 - Users can save photos and videos in folders with their customized labels. Users may download the photos and videos. 
